@@ -1,4 +1,4 @@
-Hello, I'm Mark.
+##Hello, I'm Mark.
 
 Technologist at heart. Successfully unlocked my left-right brain dynamics by building great products while bringing order to chaos. 
 
@@ -10,4 +10,4 @@ I enjoy traveling, photography, and anything that gives adrenaline rush. I'm lov
 
 As of the moment, there's a lot of great ideas in my head that are driving me insane. I think I need a conversation therapy.
 
-More about me [HERE!](http://markjosephtan.com
+More about me [HERE!](http://markjosephtan.com).
